@@ -1,0 +1,23 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.pokedex-body{
+    text-align: center;
+}
+
+.boton{
+    margin-top: 40px;
+}
+
+#name{
+    height: 35px;
+}
+
+
+#pokemon-details{
+    font-size: 1.5rem;
+  
+}
