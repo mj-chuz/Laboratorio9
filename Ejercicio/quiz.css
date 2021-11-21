@@ -1,0 +1,24 @@
+.listaPregunta{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+.container h1{
+    margin-top: 30px;
+}
+
+.seleccion{
+    width: 100px;
+    text-align: center;
+    align-content: center;
+    margin-left: 600px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.boton-respuestas{
+    background-color: rgb(255, 169, 169);
+}
